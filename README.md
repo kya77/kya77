@@ -18,4 +18,4 @@
 
 ##⚡️ Where to find me
   
-<p><a target="_blank" href="[https://www.linkedin.com/in/Kelly YA](https://www.linkedin.com/in/kelly-ya-02160a292/)" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="[https://www.linkedin.com/in/Kelly YA]" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
