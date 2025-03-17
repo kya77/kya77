@@ -1,5 +1,5 @@
 # About Me:
-🤖 currently working on a chat bot <br/>
+🤖 currently working on my portfolio <br/>
 👩‍🎓 studying web, software and application development at Leonard de Vinci in Melun (country == " Paris ")<br/>
 👨🏼‍💻 working on skills and learn about new technologies
 
