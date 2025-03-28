@@ -1,6 +1,6 @@
 # About Me:
 🤖 currently working on my portfolio <br/>
-👩‍🎓 studying web, software and application development at Leonard de Vinci in Melun (country == " Paris ")<br/>
+👩‍🎓 studying web, software and application development at Leonard de Vinci in Melun (country == " France ")<br/>
 👨🏼‍💻 working on skills and learn about new technologies
 
 # 💻 Tech Stack:
