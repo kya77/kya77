@@ -1,5 +1,5 @@
 # About Me:
-🤖 currently working on my portfolio <br/>
+🤖 currently working on my project "The Rift Planner" <br/>
 👩‍🎓 studying web, software and application development at Leonard de Vinci in Melun (country == " France ")<br/>
 👨🏼‍💻 working on skills and learn about new technologies
 
